@@ -1,0 +1,24 @@
+DATASET PASCAL VOC
+file annotazioni :     E:\DATAset\VOCdevkit\VOC2012\Annotations
+dir destinazione :     E:/PROVA_VOC
+
+
+DATASET MICROSOFT COCO
+file annotazioni :     E:\DATAset\COCOSET\annotations\instances_train2017.json
+file annotazioni :     E:\DATAset\COCOSET\annotations\instances_val2017.json
+dir destinazione :     E:/PROVA_COCO
+
+#esecuzione
+import os
+os.chdir('E:\GoogleDrive\FinalTask_IOL')
+import src.dataset.dsCOCO as ds
+tupleArgs = ('E:/DATAset/COCOSET/annotations', 'E:/DATAset/COCOSET/images/val2017', 'E:/AAA/COCO')
+prova=ds.DatasetCoco(*tupleArgs)
+prova.coco2csv()
+dfReduced = prova.selCsvData("./Notebook/1_Datasets/CSV/dataCOCO.csv")
+prova.createDataset(dfReduced)
+prova.datasetMeanVar()
+dfReduced
+
+# COMANDO ESECUZIONE
+python .\list-directory-contents.py
