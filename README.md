@@ -15,7 +15,7 @@
              
   * la previsione è abbastanza simile e tendente a 1 (o 100%)  
   * l'interpretazione della rete che si vede sulle HeatMap è decisamente diversa, una usa tutta l'area del glomerulo, l'altra solo metà!  
-  * vedi: [CAM](./Notebook/3_CAMs/HeatmapCam.ipynb) / [GradCAM](./Notebook/3_CAMs/HeatmapGradCAM.ipynb)
+  * vedi: [CAM](./Notebook/3_CAMs/HeatmapCam.ipynb#cam) / [GradCAM](./Notebook/3_CAMs/HeatmapGradCAM.ipynb#gradcam)
           
 
 - **_Fourth item_** 
