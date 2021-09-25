@@ -13,9 +13,9 @@
 - **_Third item_** -> ho inserito degli esempi di addestramento reti [CNN], tenderò a ripulirli un po ma vediamo se sono utili, per me portano fuori obiettivo che è la             realizzazione del progetto, il come può essere secondario; c'è anche l'esempio delle tecniche CAMs [Class Activation Maps]. I file sono **Notebook di Pyhton**
          è interessante notare come la stesa CNN (VGG) si comporti differentemente a seconda dell'algoritmo CAM o GradCAM usato:  
              
-             * la previsione è abbastanza simile e tendente a 1 (o 100%)  
-             * l'interpretazione della rete che si vede sulle HeatMap è decisamente diversa, una usa tutta l'area del glomerulo, l'altra solo metà!  
-             * vedi: [CAM](./Notebook/3_CAMs/HeatmapCam.ipynb) / [GradCAM](./Notebook/3_CAMs/HeatmapGradCAM.ipynb)
+  * la previsione è abbastanza simile e tendente a 1 (o 100%)  
+  * l'interpretazione della rete che si vede sulle HeatMap è decisamente diversa, una usa tutta l'area del glomerulo, l'altra solo metà!  
+  * vedi: [CAM](./Notebook/3_CAMs/HeatmapCam.ipynb) / [GradCAM](./Notebook/3_CAMs/HeatmapGradCAM.ipynb)
           
 
 - **_Fourth item_** 
