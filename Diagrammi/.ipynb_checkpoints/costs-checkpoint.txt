@@ -1,0 +1,7 @@
+Yearly rent;fixed cost;7,500;
+Cooking Equipment;fixed cost;2,500;
+Utility Bills;fixed cost;1,200;
+Website setup, hosting and maintenance;fixed cost;1,400;
+Ingredients;variable cost;3,50;
+Packaging;variable cost;0.75;
+Delivery Fees;variable cost;3.00;

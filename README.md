@@ -1,7 +1,7 @@
 # PW_Dias_Rene
 
 
-- **_First item_** -> al seguente link: [Diagramma Gantt](./Diagrammi/Gantt_Medium_PW.ipynb) trovate qualche riga di codice che automatizza la produzione di un buon diagramma di Gantt, essenziale (come sempre) è avere i dati ed averli ordinati, ma nulla di più semplice. Ci sono degli esempi di tabelle; ciò che occorre è :  
+- **_First item_** -> al seguente link: **[Diagramma Gantt](./Diagrammi/Gantt_Medium_PW.ipynb)** trovate qualche riga di codice che automatizza la produzione di un buon diagramma di Gantt, essenziale (come sempre) è avere i dati ed averli ordinati, ma nulla di più semplice. Ci sono degli esempi di tabelle; ciò che occorre è :  
   1. l'azione / il compito da eseguire, 
   2. data di inizio che può essere in formato "DATA" o anche un numero intero che indica i mesi / i giorni / le ore / ....
   3. data di fine  ... come sopra
@@ -18,7 +18,7 @@
   * vedi: [CAM](./Notebook/3_CAMs/HeatmapCam.ipynb#camID) / [GradCAM](./Notebook/3_CAMs/HeatmapGradCAM.ipynb#gradcamID)
           
 
-- **_Fourth item_** 
+- **_Fourth item_** al seguente link: **[Analisi di Break Even](./Diagrammi/BreakEvenPoint.ipynb)** basta avere la correta tabella dei costi di cui si vede un esempio nel notebook ma mi sembra che comnunque l'abbiamo
 
 
 ### _tutto questo può essere buon materiale per il PPT_
