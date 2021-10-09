@@ -7,7 +7,7 @@
   3. data di fine  ... come sopra
   4. altre informazioni ...
   
-- **_Second item_** -> c'è l'immagine del diagramma dell'analisi **[SWOT](./Diagrammi/SWOT.svg)** che ho fatto con DrawIO (integrandolo in Jupyter) 
+- **_Second item_** -> c'è l'immagine del diagramma dell'analisi **[SWOT](./Diagrammi/IMG/SWOT.png)** che ho fatto con DrawIO (integrandolo in Jupyter) 
 
 - **_Third item_** -> ho inserito degli esempi di addestramento reti [CNN], tenderò a ripulirli un po ma vediamo se sono utili, per me portano fuori obiettivo che è la             realizzazione del progetto, il come può essere secondario; c'è anche l'esempio delle tecniche CAMs [Class Activation Maps]. I file sono **Notebook di Pyhton**
          è interessante notare come la stesa CNN (VGG) si comporti differentemente a seconda dell'algoritmo CAM o GradCAM usato:  
